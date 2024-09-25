@@ -10,10 +10,12 @@ Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederun
 Lehrveranstaltungen Software Engineering 1 und 2, welche ich an der Hochschule Bonn-Rhein-Sieg 
 unterrichte.  
 <!-- TOC -->
-* [Software-Prozessmodelle im Software Engineering](#software-prozessmodelle-im-software-engineering)
-* [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
-* [Objektorientierte Analyse von Anforderungen](#objektorientierte-analyse-von-anforderungen)
-* [Literaturverzeichnis](#literaturverzeichnis)
+  * [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
+  * [Objektorientierte Analyse von Anforderungen](#objektorientierte-analyse-von-anforderungen)
+  * [Testen von Software (Grundlagen, Methoden und Tools)](#testen-von-software-grundlagen-methoden-und-tools)
+    * [Testfall-Erzeugung](#testfall-erzeugung-)
+  * [Wichtige Tools](#wichtige-tools-)
+  * [Literaturverzeichnis](#literaturverzeichnis)
 <!-- TOC -->
 
 c/o Prof. Dr. Sascha Alda, H-BRS. Ist ein Link "kaputt"? Dann bitte E-Mail an mich: sascha.alda [at]
@@ -33,9 +35,19 @@ Entwicklungsmodellen findet sich in dem guten Aufsatz von [(Mishra und Alzoubi, 
 
 ## Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
 
-TBA
 
 ## Objektorientierte Analyse von Anforderungen
+
+## Testen von Software (Grundlagen, Methoden und Tools)
+### Testfall-Erzeugung 
+Die Anzahl Testfälle kann bei komplexen Anwendungssystemen aufgrund von vielfachen
+Eingabe-Möglichkeiten (z.B. bei der Registrierung eines Benutzers) enorm groß werden. Eine Methode
+zur Reduktion der Eingabe-Werte und somit zur Reduktion der Testfälle ist die Bildung von [Äquivalenzklassen](https://de.wikipedia.org/wiki/%C3%84quivalenzklassentest). Aus Äquivalenzklassen, welche
+Eingabe-Werte zu einem Eingabe-Datum unterteilen, werden dann im nächsten Schritt konkrete
+Testfälle abgeleitet.  Dazu werden sowohl gültige als auch ungültige Eingabe-Werte betrachtet.
+Daraus können dann [Positiv-Testfälle](https://www.techtarget.com/searchsoftwarequality/tip/Positive-vs-negative-testing-Differences-and-examples) und [Negativ-Testfälle](https://de.wikipedia.org/wiki/Negativtest) abgeleitet werden. Eine sehr gute
+Beschreibung liefert das Buch von Spillner und Linz (2019), hier vor allem
+der [(Abschnitt 5.1)](/papers/Spillner%20und%20Linz,%202019,%20Kapitel%205-1%20Black%20Box%20Test.pdf)
 
 ## Wichtige Tools 
 
