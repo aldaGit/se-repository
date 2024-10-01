@@ -1,4 +1,4 @@
-# Das Software Engineering Repro
+# Das Software Engineering Literatur-Repro
 
 Auf diesem Repository finden Sie viele nützliche Links, Publikationen und Hinweise rund um meine 
 Vorlesungsreihe Software Engineering. Diese Quellen-Sammmlung wird kontinuierlich 
