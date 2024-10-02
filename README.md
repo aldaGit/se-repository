@@ -12,10 +12,11 @@ Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederun
 Lehrveranstaltungen Software Engineering 1 und 2, welche ich an der Hochschule Bonn-Rhein-Sieg 
 unterrichte.  
 <!-- TOC -->
-  * [Inhaltsverzeichnis](#inhaltsverzeichnis)
   * [Software-Prozessmodelle im Software Engineering](#software-prozessmodelle-im-software-engineering)
   * [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
+    * [Modellierung von Use-Cases mit UML](#modellierung-von-use-cases-mit-uml)
   * [Objektorientierte Analyse von Anforderungen](#objektorientierte-analyse-von-anforderungen)
+    * [Modellierung von Klassendiagrammen mit UML](#modellierung-von-klassendiagrammen-mit-uml)
     * [Objektorientiertes Analyse-Modell (OOA)](#objektorientiertes-analyse-modell-ooa)
   * [System Design (Grundlagen von Software-Architekturen)](#system-design-grundlagen-von-software-architekturen)
   * [Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))](#objektorientiertes-design-grundlagen-und-entwurfsmuster-design-pattern)
@@ -23,6 +24,7 @@ unterrichte.
   * [Testen von Software (Grundlagen, Methoden und Tools)](#testen-von-software-grundlagen-methoden-und-tools)
     * [Testfall-Erzeugung](#testfall-erzeugung)
   * [Nachhaltigkeit von Software (Refactoring und Software-Wartung)](#nachhaltigkeit-von-software-refactoring-und-software-wartung)
+  * [KI im Bereich Software Engineering](#ki-im-bereich-software-engineering)
   * [Wichtige SE-Tools (Case Tools)](#wichtige-se-tools-case-tools-)
     * [Tools zur Modellierung von UML-basierten Diagrammen](#tools-zur-modellierung-von-uml-basierten-diagrammen)
   * [Literaturverzeichnis](#literaturverzeichnis)
@@ -44,16 +46,16 @@ Ein sehr guter und aktueller Vergleich zwischen Wasserfallmodell und modernen ag
 Entwicklungsmodellen findet sich in dem guten Aufsatz von [(Mishra und Alzoubi, 2023)](/papers/Mishra%20und%20Azoubi%202023.pdf)).
 
 ## Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
-### Modellierung von Use-Cases
+### Modellierung von Use-Cases mit UML
 Für die Modellierung von Use-Cases (dt: Anwendungsfälle) haben sich UML-basierte 
 Use-Case-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp, 
-2021). 
+2012). 
 
 ## Objektorientierte Analyse von Anforderungen
-### Modellierung von Klassendiagrammen
+### Modellierung von Klassendiagrammen mit UML
 Für die Modellierung von Klassen haben sich UML-basierte
 Klassen-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp,
-2021).
+2012).
 
 ### Objektorientiertes Analyse-Modell (OOA)
 Das OOA abstrahiert von Anforderungen und liefert ein erstes Modell in Richtung der 
