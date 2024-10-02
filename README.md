@@ -4,6 +4,8 @@ Auf diesem Repository finden Sie viele nützliche Links, Publikationen und Hinwe
 Vorlesungsreihe Software Engineering. Diese Quellen-Sammmlung wird kontinuierlich 
 und semesterübergreifend von mir gepflegt. Die aktuellen Folien zu der Vorlesung im aktuellen 
 Semester finden Sie auf dem LEA-Kurs der jeweiligen Veranstaltung.
+<br>
+Diese Seite ist im Aufbau.
 
 ## Inhaltsverzeichnis
 Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederung meiner 
@@ -19,7 +21,7 @@ unterrichte.
   * [Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))](#objektorientiertes-design-grundlagen-und-entwurfsmuster-design-pattern)
     * [Design Pattern (Entwurfsmuster)](#design-pattern-entwurfsmuster)
   * [Testen von Software (Grundlagen, Methoden und Tools)](#testen-von-software-grundlagen-methoden-und-tools)
-    * [Testfall-Erzeugung](#testfall-erzeugung-)
+    * [Testfall-Erzeugung](#testfall-erzeugung)
   * [Nachhaltigkeit von Software (Refactoring und Software-Wartung)](#nachhaltigkeit-von-software-refactoring-und-software-wartung)
   * [Wichtige SE-Tools (Case Tools)](#wichtige-se-tools-case-tools-)
     * [Tools zur Modellierung von UML-basierten Diagrammen](#tools-zur-modellierung-von-uml-basierten-diagrammen)
@@ -42,9 +44,17 @@ Ein sehr guter und aktueller Vergleich zwischen Wasserfallmodell und modernen ag
 Entwicklungsmodellen findet sich in dem guten Aufsatz von [(Mishra und Alzoubi, 2023)](/papers/Mishra%20und%20Azoubi%202023.pdf)).
 
 ## Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
-tba
+### Modellierung von Use-Cases
+Für die Modellierung von Use-Cases (dt: Anwendungsfälle) haben sich UML-basierte 
+Use-Case-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp, 
+2021). 
 
 ## Objektorientierte Analyse von Anforderungen
+### Modellierung von Klassendiagrammen
+Für die Modellierung von Klassen haben sich UML-basierte
+Klassen-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp,
+2021).
+
 ### Objektorientiertes Analyse-Modell (OOA)
 Das OOA abstrahiert von Anforderungen und liefert ein erstes Modell in Richtung der 
 Implementierung. Das OOA wird auch als [Robustness Diagram](https://en.wikipedia.org/wiki/Entity-control-boundary) bezeichnet.
@@ -78,7 +88,7 @@ Sekundar-Quellen und Online-Quellen:
 
 
 ## Testen von Software (Grundlagen, Methoden und Tools)
-### Testfall-Erzeugung 
+### Testfall-Erzeugung
 Die Anzahl Testfälle kann bei komplexen Anwendungssystemen aufgrund von vielfachen
 Eingabe-Möglichkeiten (z.B. bei der Registrierung eines Benutzers) enorm groß werden. Eine Methode
 zur Reduktion der Eingabe-Werte und somit zur Reduktion der Testfälle ist die Bildung von [Äquivalenzklassen](https://de.wikipedia.org/wiki/%C3%84quivalenzklassentest). Aus Äquivalenzklassen, welche
@@ -91,6 +101,15 @@ der [(Abschnitt 5.1)](/papers/Spillner%20und%20Linz,%202019,%20Kapitel%205-1%20B
 ## Nachhaltigkeit von Software (Refactoring und Software-Wartung)
 tbc
 
+## KI im Bereich Software Engineering
+Ein kompletter Roundtrip von der Analyse von Anforderugen bis hin zur Auslieferung von Software 
+mit Hilfe von KI-Tools wie [ChatGPT](https://chatgpt.com/auth/login) oder diverser Co-Pilot-Tools (z.B. [GitHub-CoPilot](https://github.com/features/copilot)) ist 
+aktuell noch eine Illusion. Die Abbildung von informellen Wissen aus "den Köpfen der Kunden" auf 
+formale Konstrukte (z.B. UML oder Java-Code) wird auf in Zukunft viele manuelle Aufgabe mit sich 
+ziehen, die man im Software Engineering lernen muss. Ein visionäres Paper, wie so ein 
+KI-unterstützer RoundTrip eines Software-Projektes aussehen könnte, liefert das Paper 
+([Abdelfattah et al., 2024](/papers/Roadmap_for_Software_Engineering_Education_using_ChatGPT.pdf)).   
+
 ## Wichtige SE-Tools (Case Tools) 
 ### Tools zur Modellierung von UML-basierten Diagrammen
 
@@ -102,14 +121,19 @@ Quelle: https://app.diagrams.net/
 
 ## Literaturverzeichnis
 
-Brass, L. et al.: Software Architecture in Practice. Second Edition. 2003.
+Hier eine Auflistung der wichtigen Quellen, die für das Software Engineering relevant sind. 
+
+Brass, L. et al.: _Software Architecture in Practice_. Addison Wesley; 4. Edition. 2021.
 <br>
-Bruegge, B.; Dutoit, A.H.: Object-Oriented Software Engineering. 3. Auflage, Prentice-Hall, 2013.
+Bruegge, B.; Dutoit, A.H.: _Object-Oriented Software Engineering_. 3. Auflage, Prentice-Hall, 2013.
 <br>
-Sommerville, Ian: Software Engineering 8. Addison-Wesley. 2007
+Rupp, Christin: _UML 2 glasklar: Praxiswissen für die UML-Modellierung_. Carl Hanser Verlag GmbH & 
+Co. KG; 4 Edition, 2012.
 <br>
-Starke, Gernot: Effektive Software-Architekturen – Ein praktischer Leitfaden. 10. Auflage, Hanser 
-Verlag, 2024. (gelegentlich werden auch frühere Auflagen zitiert)
+Sommerville, Ian: _Software Engineering_. Pearson Studium; 10., aktualisierte Edition, 2018.
+<br>
+Starke, Gernot: _Effektive Software-Architekturen – Ein praktischer Leitfaden_. 10. Auflage, Hanser 
+Verlag, 2024. (Anmerkung: auch die früheren Auflagen sind sehr gut und werden häufig verwendet)
 <br>
 
 
