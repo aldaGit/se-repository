@@ -12,6 +12,7 @@ Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederun
 Lehrveranstaltungen Software Engineering 1 und 2, welche ich an der Hochschule Bonn-Rhein-Sieg 
 unterrichte.  
 <!-- TOC -->
+  * [Einführung ins Software Engineering](#einführung-ins-software-engineering)
   * [Software-Prozessmodelle im Software Engineering](#software-prozessmodelle-im-software-engineering)
   * [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
     * [Modellierung von Use-Cases mit UML](#modellierung-von-use-cases-mit-uml)
@@ -32,6 +33,11 @@ unterrichte.
 
 c/o Prof. Dr. Sascha Alda, H-BRS. Ist ein Link "kaputt"? Dann bitte E-Mail an mich: sascha.alda [at]
 h-brs.de
+
+## Einführung ins Software Engineering
+Die in der Vorlesung erwähnten Zitate rund um agile Software-Entwicklung ("Speed is everything", 
+"[The end of agile!](https://janbosch.com/blog/index.php/2023/08/07/summer-reflections-the-end-of-agile/)" stammen von [Prof. Dr. Jan Bosch](https://www.chalmers.se/en/persons/janbo/), einem bekannten Professor aus der Chalmers 
+University of Technology in Schweden. Viele gute Beiträge von ihm kann man aus seinem [Blog](https://janbosch.com/blog/) entnehmen. 
 
 ## Software-Prozessmodelle im Software Engineering
 
