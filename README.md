@@ -51,6 +51,14 @@ denen aus organisatorischen Gründen ein Rücksprung nicht mehr vorgesehen werde
 Ein sehr guter und aktueller Vergleich zwischen Wasserfallmodell und modernen agilen 
 Entwicklungsmodellen findet sich in dem guten Aufsatz von [(Mishra und Alzoubi, 2023)](/papers/Mishra%20und%20Azoubi%202023.pdf)).
 
+Das Thema Security Touch Points ist in dem Buch von 
+[(McGraw, 2005)](/papers/McGraw%202005.pdf) 
+ausführlich beschrieben. Eine gute Erläuterung der Themen findet sich 
+[hier](https://www.dcc.fc.up.pt/~edrdo/QSES1819/lectures/qses-02-sdlc_and_security.pdf).
+Eine sehr gute Vorlesung im deutschsprachigen Raum wird von [Prof. Bodden](https://www.hni.uni-paderborn.de/sse/lehre/sse) angeboten. Diese ist 
+anhand der [OWASP TOP 10](https://owasp.org/www-project-top-ten/) aufgebaut. 
+
+
 ## Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
 ### Modellierung von Use-Cases mit UML
 Für die Modellierung von Use-Cases (dt: Anwendungsfälle) haben sich UML-basierte 
