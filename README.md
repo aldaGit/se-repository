@@ -128,7 +128,7 @@ ziehen, die man im Software Engineering lernen muss. Ein visionäres Paper, wie 
 KI-unterstützer RoundTrip eines Software-Projektes aussehen könnte, liefert das Paper 
 ([Abdelfattah et al., 2024](/papers/Roadmap_for_Software_Engineering_Education_using_ChatGPT.pdf)).  
 
-Eine [Untersuchung des Unternehmens Capgemini]() zu den Einsatzmöglichkeiten von KI in der 
+Eine [Untersuchung des Unternehmens Capgemini](https://www.bigdata-insider.de/wie-generative-ki-die-software-entwicklung-veraendert-a-1758fa47d007e68860c43dd9dc87affc/) zu den Einsatzmöglichkeiten von KI in der 
 Software-Entwicklung stellt (Stand 2025) dar, dass Unternehmen durch den Einsatz von KI-Tools in 
 der Software-Entwicklung eine Produktivitätssteigerung von 30% erreichen können.
 
