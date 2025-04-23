@@ -12,6 +12,8 @@ Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederun
 Lehrveranstaltungen Software Engineering 1 und 2, welche ich an der Hochschule Bonn-Rhein-Sieg 
 unterrichte.  
 <!-- TOC -->
+* [Das Software Engineering Literatur-Repro](#das-software-engineering-literatur-repro)
+  * [Inhaltsverzeichnis](#inhaltsverzeichnis)
   * [Einführung ins Software Engineering](#einführung-ins-software-engineering)
   * [Software-Prozessmodelle im Software Engineering](#software-prozessmodelle-im-software-engineering)
   * [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
@@ -124,7 +126,11 @@ aktuell noch eine Illusion. Die Abbildung von informellen Wissen aus "den Köpfe
 formale Konstrukte (z.B. UML oder Java-Code) wird auf in Zukunft viele manuelle Aufgabe mit sich 
 ziehen, die man im Software Engineering lernen muss. Ein visionäres Paper, wie so ein 
 KI-unterstützer RoundTrip eines Software-Projektes aussehen könnte, liefert das Paper 
-([Abdelfattah et al., 2024](/papers/Roadmap_for_Software_Engineering_Education_using_ChatGPT.pdf)).   
+([Abdelfattah et al., 2024](/papers/Roadmap_for_Software_Engineering_Education_using_ChatGPT.pdf)).  
+
+Eine [Untersuchung des Unternehmens Capgemini]() zu den Einsatzmöglichkeiten von KI in der 
+Software-Entwicklung stellt (Stand 2025) dar, dass Unternehmen durch den Einsatz von KI-Tools in 
+der Software-Entwicklung eine Produktivitätssteigerung von 30% erreichen können.
 
 ## Wichtige SE-Tools (Case Tools) 
 ### Tools zur Modellierung von UML-basierten Diagrammen
