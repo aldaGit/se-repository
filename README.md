@@ -119,6 +119,18 @@ der [(Abschnitt 5.1)](/papers/Spillner%20und%20Linz,%202019,%20Kapitel%205-1%20B
 ## Nachhaltigkeit von Software (Refactoring und Software-Wartung)
 tbc
 
+## Usability (Entwicklung von graphischen Benutzeroberflächen)
+Sehr viele Arbeiten rund um Usability wurden von Jakob Nielsen beigesteuert. Grundlegendes Werk 
+dazu: Nielsen, Jakob: Usability Engineering. Morgan Kaufmann, 1993.
+Es werden auch aktuelle Arbeiten von seiner [Homepage](http://www.nngroup.com/articles/) verwendet, auf der sehr viele Arbeiten und 
+Paper verlinkt sind. 
+
+Viele Aspekte werden auch bei (Starke, 2011), 
+[Kapitel 7.7](/papers/Starke,%202011,%20Kap%207.7.pdf) 
+gut und bündig beschrieben. Diese Quelle wird 
+auch in der Vorlesung verwendet. 
+
+
 ## KI im Bereich Software Engineering
 Ein kompletter Roundtrip von der Analyse von Anforderugen bis hin zur Auslieferung von Software 
 mit Hilfe von KI-Tools wie [ChatGPT](https://chatgpt.com/auth/login) oder diverser Co-Pilot-Tools (z.B. [GitHub-CoPilot](https://github.com/features/copilot)) ist 
