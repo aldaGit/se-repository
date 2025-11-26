@@ -156,7 +156,10 @@ Quelle: https://app.diagrams.net/
 
 ## Literaturverzeichnis
 
-Hier eine Auflistung der wichtigen Quellen, die für das Software Engineering relevant sind. 
+Hier eine Auflistung der wichtigen Quellen, die für das Software Engineering relevant sind. Alle 
+Bücher können auch über 
+[HBRS Bib Disover](https://bib-discover.bib.h-brs.de/discovery/search?vid=49HBZ_BRS:1044) online eingesehen werden.
+
 
 Brass, L. et al.: _Software Architecture in Practice_. Addison Wesley; 4. Edition. 2021.
 <br>
