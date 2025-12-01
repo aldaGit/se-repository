@@ -145,6 +145,16 @@ Eine [Untersuchung des Unternehmens Capgemini](https://www.bigdata-insider.de/wi
 Software-Entwicklung stellt (Stand 2025) dar, dass Unternehmen durch den Einsatz von KI-Tools in 
 der Software-Entwicklung eine Produktivitätssteigerung von 30% erreichen können.
 
+Eine gute Referenz-Architektur zur Integration eines Large Language Modells (LLM) liefert das 
+Paper von 
+([Bucaioni et al., 2025](/papers/A_Functional_Software_Reference_Architecture_for_LLM-Integrated_Systems.pdf))
+. Die dort beschriebene Referenz-Architektur liefert einen soliden und erweiterbaren Rahmen für 
+die Bereitstellung von LLMs für interaktive Systeme. Durch die Einbindung einer 
+Guardrail-Komponente können zudem wichtige sicherheitsrelevante Aspekte berücksichtigt werden. 
+Weitere Infos über die Integration und Funktionalität einer Guardrail-Komponente finden sie auf 
+der Seite von [Guardrails AI](https://github.com/guardrails-ai/guardrails). 
+
+
 ## Wichtige SE-Tools (Case Tools) 
 ### Tools zur Modellierung von UML-basierten Diagrammen
 
