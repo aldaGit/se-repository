@@ -93,6 +93,9 @@ anschauen ([Link in Bib](https://bib-discover.bib.h-brs.de/permalink/49HBZ_BRS/1
 
 Einer der ersten Artikel über Software-Architekturen: [(Garlan and Shawn, 1994)](papers/Garlan%20and%20Shaw%201994.pdf).
 
+Das Paper von [(Syromiatnikov, 2014)](/papers/Syromiatnikov,%202014.pdf) gibt einen guten 
+Überblick über die verschiedenen Ausprägungen des MVC-Musters.
+
 ## Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))
 
 
