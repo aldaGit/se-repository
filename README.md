@@ -94,7 +94,12 @@ anschauen ([Link in Bib](https://bib-discover.bib.h-brs.de/permalink/49HBZ_BRS/1
 Einer der ersten Artikel über Software-Architekturen: [(Garlan and Shawn, 1994)](papers/Garlan%20and%20Shaw%201994.pdf).
 
 Das Paper von [(Syromiatnikov, 2014)](/papers/Syromiatnikov,%202014.pdf) gibt einen guten 
-Überblick über die verschiedenen Ausprägungen des MVC-Musters.
+Überblick über die verschiedenen Ausprägungen des [MVC](https://de.wikipedia.org/wiki/Model_View_Controller)-Musters.
+
+Das MVC-Muster gilt heutzutage als Grundlage für verschiedene Web-Frameworks, welche das 
+MVC-Pattern jedoch recht unterschiedlich auslegen. Eine Übersicht zu den bekanntesten 
+Web-Frameworks auf dem Markt finden sie [hier](https://hotframeworks.com/) sowie auf den 
+Trend-Seiten von [Stake-Overflow](https://survey.stackoverflow.co/2025/technology#1-web-frameworks-and-technologies).  
 
 ## Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))
 
