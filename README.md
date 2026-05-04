@@ -29,7 +29,12 @@ unterrichte.
     * [Testfall-Erzeugung](#testfall-erzeugung)
   * [Kapitel 8: Nachhaltigkeit von Software (Refactoring und Software-Wartung)](#kapitel-8-nachhaltigkeit-von-software-refactoring-und-software-wartung)
 * [Quellen und Links zur Vorlesung Software Engineering 2 (SE-2)](#quellen-und-links-zur-vorlesung-software-engineering-2-se-2)
+  * [Kapitel 2: Requirements Management](#kapitel-2-requirements-management)
   * [Kapitel 3: Usability (Entwicklung von graphischen Benutzeroberflächen)](#kapitel-3-usability-entwicklung-von-graphischen-benutzeroberflächen)
+  * [Kapitel 4: Einführung in das Web-Engineering (Vaadin)](#kapitel-4-einführung-in-das-web-engineering-vaadin)
+  * [Kapitel 5: Continuous Delivery (CI / CD)](#kapitel-5-continuous-delivery-ci--cd)
+  * [Kapitel 6: Software-Metriken](#kapitel-6-software-metriken)
+  * [Kapitel 7: Erweiterte Methoden der Software-Entwicklung](#kapitel-7-erweiterte-methoden-der-software-entwicklung)
 * [Allgemeine Quellen und Links zum Thema Software Engineering](#allgemeine-quellen-und-links-zum-thema-software-engineering)
   * [KI im Bereich Software Engineering](#ki-im-bereich-software-engineering)
   * [Wichtige SE-Tools (Case Tools)](#wichtige-se-tools-case-tools-)
@@ -139,6 +144,10 @@ In diesem Bereich finden Sie Quellen und Links zu meiner Vorlesung Software Engi
 ich regelmäßig im Sommersemester anbiete. Sie baut thematisch auf die Vorlesung Software 
 Engineering 1 (WS) auf.
 
+## Kapitel 2: Requirements Management
+Das Thema KI und Requirements Engineering wird in dem [Buch](https://sophist.de/wissen/buch-ki-im-re/) von den SOPHISTen sehr gut aufgearbeitet.
+Eine sehr gute Übersicht zu den Artikeln und Büchern von den SOPHSTen findet sich h[](https://sophist.de/wissen/)ier.
+
 ## Kapitel 3: Usability (Entwicklung von graphischen Benutzeroberflächen)
 Sehr viele Arbeiten rund um Usability wurden von Jakob Nielsen beigesteuert. Grundlegendes Werk 
 dazu: Nielsen, Jakob: Usability Engineering. Morgan Kaufmann, 1993.
@@ -147,8 +156,7 @@ Paper verlinkt sind.
 
 Ein allgemeine Einführung zum Begriff Usability findet sich in diesem [Artikel von Nielsen von 2012](https://www.nngroup.com/articles/usability-101-introduction-to-usability/).
 
-Der bekannteste Artikel von Nielsen sind die [10 Usability Heuristics for User Interface Design]
-(https://www.nngroup.com/articles/ten-usability-heuristics/). Dieser Artikel wird regelmäßig 
+Der bekannteste Artikel von Nielsen sind die [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). Dieser Artikel wird regelmäßig 
 aktualisiert und addressiert somit auch heute noch die wichtigsten Prinzipien zur Gestaltung von 
 Benutzeroberflächen. Daneben gibt es ein gutes [Poster](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1_Letter-compressed.pdf), welches die 10 Heuristiken gut zusammenfasst.
 Zudem gibt es für jede Heuristik ein eigenes Poster (herunterladbar als [ZIP-File](https://media.nngroup.com/media/articles/attachments/Jakob's10UsabilityHeuristics_AllPosters_5.zip)).
@@ -166,6 +174,18 @@ Viele gute Heuristiken zur Gestaltung von Benutzeroberflächen werden auch bei (
 In dem Artikel ([Le, Mayer et al., 2018](/papers/Fingers_Range_and_Comfortable_Area_for_One-Handed.pdf)) werden die wichtigsten Touch-Stellen in einer 
 Mobile-Anwendung durch ein HeatMap-Analyse durchgeführt. In dieser Forschungsarbeit wurden 
 allerdings nur Rechtshänder betrachtet, was sicherlich eine Limitierung darstellt.  
+
+## Kapitel 4: Einführung in das Web-Engineering (Vaadin)
+ToDo
+
+## Kapitel 5: Continuous Delivery (CI / CD)
+ToDo
+
+## Kapitel 6: Software-Metriken
+Todo
+
+## Kapitel 7: Erweiterte Methoden der Software-Entwicklung
+Todo
 
 # Allgemeine Quellen und Links zum Thema Software Engineering
 In diesem Bereich finden Sie Quellen und Links zu modernen Themen des Software Engineerings, die 
