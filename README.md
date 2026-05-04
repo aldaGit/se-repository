@@ -146,7 +146,7 @@ Engineering 1 (WS) auf.
 
 ## Kapitel 2: Requirements Management
 Das Thema KI und Requirements Engineering wird in dem [Buch](https://sophist.de/wissen/buch-ki-im-re/) von den SOPHISTen sehr gut aufgearbeitet.
-Eine sehr gute Übersicht zu den Artikeln und Büchern von den SOPHSTen findet sich h[](https://sophist.de/wissen/)ier.
+Eine sehr gute Übersicht zu den Artikeln und Büchern von den SOPHSTen findet sich [hier](https://sophist.de/wissen/).
 
 ## Kapitel 3: Usability (Entwicklung von graphischen Benutzeroberflächen)
 Sehr viele Arbeiten rund um Usability wurden von Jakob Nielsen beigesteuert. Grundlegendes Werk 
