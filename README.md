@@ -5,44 +5,52 @@ Vorlesungsreihe Software Engineering. Diese Quellen-Sammmlung wird kontinuierlic
 und semesterübergreifend von mir gepflegt. Die aktuellen Folien zu der Vorlesung im aktuellen 
 Semester finden Sie auf dem LEA-Kurs der jeweiligen Veranstaltung.
 <br>
-Diese Seite ist im Aufbau.
+Diese Seite wird ständig aktualisiert. 
 
 ## Inhaltsverzeichnis
 Das vorliegende Inhaltsverzeichnis orientiert sich an der thematischen Gliederung meiner 
 Lehrveranstaltungen Software Engineering 1 und 2, welche ich an der Hochschule Bonn-Rhein-Sieg 
-unterrichte.  
+unterrichte.   
 <!-- TOC -->
 * [Das Software Engineering Literatur-Repro](#das-software-engineering-literatur-repro)
   * [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  * [Einführung ins Software Engineering](#einführung-ins-software-engineering)
-  * [Software-Prozessmodelle im Software Engineering](#software-prozessmodelle-im-software-engineering)
-  * [Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
+* [Quellen und Links zur Vorlesung Software Engineering 1 (SE-1)](#quellen-und-links-zur-vorlesung-software-engineering-1-se-1)
+  * [Kapitel 1: Einführung ins Software Engineering](#kapitel-1-einführung-ins-software-engineering)
+  * [Kapitel 2: Software-Prozessmodelle im Software Engineering](#kapitel-2-software-prozessmodelle-im-software-engineering)
+  * [Kapitel 3: Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)](#kapitel-3-modellierung-und-erhebung-von-anforderungen-requirements-engineering-teil-1)
     * [Modellierung von Use-Cases mit UML](#modellierung-von-use-cases-mit-uml)
-  * [Objektorientierte Analyse von Anforderungen](#objektorientierte-analyse-von-anforderungen)
+  * [Kapitel 4: Objektorientierte Analyse von Anforderungen](#kapitel-4-objektorientierte-analyse-von-anforderungen)
     * [Modellierung von Klassendiagrammen mit UML](#modellierung-von-klassendiagrammen-mit-uml)
     * [Objektorientiertes Analyse-Modell (OOA)](#objektorientiertes-analyse-modell-ooa)
-  * [System Design (Grundlagen von Software-Architekturen)](#system-design-grundlagen-von-software-architekturen)
-  * [Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))](#objektorientiertes-design-grundlagen-und-entwurfsmuster-design-pattern)
+  * [Kapitel 5: System Design (Grundlagen von Software-Architekturen)](#kapitel-5-system-design-grundlagen-von-software-architekturen)
+  * [Kapitel 6: Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))](#kapitel-6-objektorientiertes-design-grundlagen-und-entwurfsmuster-design-pattern)
     * [Design Pattern (Entwurfsmuster)](#design-pattern-entwurfsmuster)
-  * [Testen von Software (Grundlagen, Methoden und Tools)](#testen-von-software-grundlagen-methoden-und-tools)
+  * [Kapitel 7: Testen von Software (Grundlagen, Methoden und Tools)](#kapitel-7-testen-von-software-grundlagen-methoden-und-tools)
     * [Testfall-Erzeugung](#testfall-erzeugung)
-  * [Nachhaltigkeit von Software (Refactoring und Software-Wartung)](#nachhaltigkeit-von-software-refactoring-und-software-wartung)
-  * [Usability (Entwicklung von graphischen Benutzeroberflächen)](#usability-entwicklung-von-graphischen-benutzeroberflächen)
+  * [Kapitel 8: Nachhaltigkeit von Software (Refactoring und Software-Wartung)](#kapitel-8-nachhaltigkeit-von-software-refactoring-und-software-wartung)
+* [Quellen und Links zur Vorlesung Software Engineering 2 (SE-2)](#quellen-und-links-zur-vorlesung-software-engineering-2-se-2)
+  * [Kapitel 3: Usability (Entwicklung von graphischen Benutzeroberflächen)](#kapitel-3-usability-entwicklung-von-graphischen-benutzeroberflächen)
+* [Allgemeine Quellen und Links zum Thema Software Engineering](#allgemeine-quellen-und-links-zum-thema-software-engineering)
   * [KI im Bereich Software Engineering](#ki-im-bereich-software-engineering)
   * [Wichtige SE-Tools (Case Tools)](#wichtige-se-tools-case-tools-)
     * [Tools zur Modellierung von UML-basierten Diagrammen](#tools-zur-modellierung-von-uml-basierten-diagrammen)
-  * [Literaturverzeichnis](#literaturverzeichnis)
+* [Literaturverzeichnis](#literaturverzeichnis)
 <!-- TOC -->
 
 c/o Prof. Dr. Sascha Alda, H-BRS. Ist ein Link "kaputt"? Dann bitte E-Mail an mich: sascha.alda [at]
 h-brs.de
 
-## Einführung ins Software Engineering
+# Quellen und Links zur Vorlesung Software Engineering 1 (SE-1)
+
+In diesem Bereich finden Sie Quellen und Links zu meiner Vorlesung Software Engineering 1, die 
+ich regelmäßig im Wintersemester anbiete.
+
+## Kapitel 1: Einführung ins Software Engineering
 Die in der Vorlesung erwähnten Zitate rund um agile Software-Entwicklung ("Speed is everything", 
 "[The end of agile!](https://janbosch.com/blog/index.php/2023/08/07/summer-reflections-the-end-of-agile/)" stammen von [Prof. Dr. Jan Bosch](https://www.chalmers.se/en/persons/janbo/), einem bekannten Professor aus der Chalmers 
 University of Technology in Schweden. Viele gute Beiträge von ihm kann man aus seinem [Blog](https://janbosch.com/blog/) entnehmen. 
 
-## Software-Prozessmodelle im Software Engineering
+## Kapitel 2: Software-Prozessmodelle im Software Engineering
 
 Das Wasserfallmodell wurde in einer ursprünglichen Version von den Software-Entwickler Royce 
 vorgestellt [(Royce, 1970)](/papers/Royce,%201970.pdf). Das hier beschriebene Ablaufmodell mit 
@@ -62,13 +70,13 @@ Eine sehr gute Vorlesung im deutschsprachigen Raum wird von [Prof. Bodden](https
 anhand der [OWASP TOP 10](https://owasp.org/www-project-top-ten/) aufgebaut. 
 
 
-## Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
+## Kapitel 3: Modellierung und Erhebung von Anforderungen (Requirements Engineering Teil 1)
 ### Modellierung von Use-Cases mit UML
 Für die Modellierung von Use-Cases (dt: Anwendungsfälle) haben sich UML-basierte 
 Use-Case-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp, 
 2012). 
 
-## Objektorientierte Analyse von Anforderungen
+## Kapitel 4: Objektorientierte Analyse von Anforderungen
 ### Modellierung von Klassendiagrammen mit UML
 Für die Modellierung von Klassen haben sich UML-basierte
 Klassen-Diagramme bewährt. Einen sehr guten Überblick liefert das Buch von Christin Rupp (Rupp,
@@ -84,12 +92,11 @@ aus den Annahmen von [Robustness-Diagrammen](https://en.wikipedia.org/wiki/Entit
 sowie aus der Praxis z.B. durch die Verwendung von 
 [ORM-Technologien](https://de.wikipedia.org/wiki/Objektrelationale_Abbildung) ergeben. Diese Regeln führe ich meiner Vorlesung in Kapitel 4 ein.
 
-## System Design (Grundlagen von Software-Architekturen)
+## Kapitel 5: System Design (Grundlagen von Software-Architekturen)
 Der Klassiker im Bereich Software-Architekturen ist und bleibt das sehr gute Buch von Gernot 
 Starke, welches mittlerweile in der 10. Auflage erschienen ist (Starke, 2024). Dies sollte in 
 jedem gut sorierten Bücherregal zu finden sein ;-) Falls kein Bücherregal vorhanden, dann kann man sich auch eine Online-Version 
 anschauen ([Link in Bib](https://bib-discover.bib.h-brs.de/permalink/49HBZ_BRS/1hl68vi/alma991001257049706452)).
-
 
 Einer der ersten Artikel über Software-Architekturen: [(Garlan and Shawn, 1994)](papers/Garlan%20and%20Shaw%201994.pdf).
 
@@ -101,8 +108,7 @@ MVC-Pattern jedoch recht unterschiedlich auslegen. Eine Übersicht zu den bekann
 Web-Frameworks auf dem Markt finden sie [hier](https://hotframeworks.com/) sowie auf den 
 Trend-Seiten von [Stake-Overflow](https://survey.stackoverflow.co/2025/technology#1-web-frameworks-and-technologies).  
 
-## Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))
-
+## Kapitel 6: Objektorientiertes Design (Grundlagen und Entwurfsmuster (Design Pattern))
 
 ### Design Pattern (Entwurfsmuster)
 Das primäre Werk um die Thematik Design Pattern ist das berühmte Buch der [GoF](https://springframework.guru/gang-of-four-design-patterns/)-Autoren, allen voran 
@@ -113,8 +119,7 @@ Sekundar-Quellen und Online-Quellen:
 - [Seite](https://refactoring.guru/design-patterns) von Refacotoring Guru (sehr gute Darstellung 
   mit gute Code-Beispielen)
 
-
-## Testen von Software (Grundlagen, Methoden und Tools)
+## Kapitel 7: Testen von Software (Grundlagen, Methoden und Tools)
 ### Testfall-Erzeugung
 Die Anzahl Testfälle kann bei komplexen Anwendungssystemen aufgrund von vielfachen
 Eingabe-Möglichkeiten (z.B. bei der Registrierung eines Benutzers) enorm groß werden. Eine Methode
@@ -125,20 +130,46 @@ Daraus können dann [Positiv-Testfälle](https://www.techtarget.com/searchsoftwa
 Beschreibung liefert das Buch von Spillner und Linz (2019), hier vor allem
 der [(Abschnitt 5.1)](/papers/Spillner%20und%20Linz,%202019,%20Kapitel%205-1%20Black%20Box%20Test.pdf)
 
-## Nachhaltigkeit von Software (Refactoring und Software-Wartung)
+## Kapitel 8: Nachhaltigkeit von Software (Refactoring und Software-Wartung)
 tbc
 
-## Usability (Entwicklung von graphischen Benutzeroberflächen)
+# Quellen und Links zur Vorlesung Software Engineering 2 (SE-2)
+
+In diesem Bereich finden Sie Quellen und Links zu meiner Vorlesung Software Engineering 2, die
+ich regelmäßig im Sommersemester anbiete. Sie baut thematisch auf die Vorlesung Software 
+Engineering 1 (WS) auf.
+
+## Kapitel 3: Usability (Entwicklung von graphischen Benutzeroberflächen)
 Sehr viele Arbeiten rund um Usability wurden von Jakob Nielsen beigesteuert. Grundlegendes Werk 
 dazu: Nielsen, Jakob: Usability Engineering. Morgan Kaufmann, 1993.
-Es werden auch aktuelle Arbeiten von seiner [Homepage](http://www.nngroup.com/articles/) verwendet, auf der sehr viele Arbeiten und 
+Es werden auch aktuelle Arbeiten von seiner [Homepage](https://www.nngroup.com/) verwendet, auf der sehr viele Arbeiten und 
 Paper verlinkt sind. 
 
-Viele Aspekte werden auch bei (Starke, 2011), 
-[Kapitel 7.7](/papers/Starke,%202011,%20Kap%207.7.pdf) 
-gut und bündig beschrieben. Diese Quelle wird 
-auch in der Vorlesung verwendet. 
+Ein allgemeine Einführung zum Begriff Usability findet sich in diesem [Artikel von Nielsen von 2012](https://www.nngroup.com/articles/usability-101-introduction-to-usability/).
 
+Der bekannteste Artikel von Nielsen sind die [10 Usability Heuristics for User Interface Design]
+(https://www.nngroup.com/articles/ten-usability-heuristics/). Dieser Artikel wird regelmäßig 
+aktualisiert und addressiert somit auch heute noch die wichtigsten Prinzipien zur Gestaltung von 
+Benutzeroberflächen. Daneben gibt es ein gutes [Poster](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1_Letter-compressed.pdf), welches die 10 Heuristiken gut zusammenfasst.
+Zudem gibt es für jede Heuristik ein eigenes Poster (herunterladbar als [ZIP-File](https://media.nngroup.com/media/articles/attachments/Jakob's10UsabilityHeuristics_AllPosters_5.zip)).
+
+Speziell für die Entwicklung von Web-basierten Systemen gibt es einen ausführlichen 
+[Web UX Style Guide](https://www.nngroup.com/articles/web-ux-study-guide/). Neben vielen Themen 
+werden zum Beispiel die Vorteile des Musters [Breadcump Navigation](https://www.nngroup.com/articles/breadcrumb-navigation-useful/) vorgestellt.
+
+Speziell für die [Entwicklung von KI-basierten Chatbots wurden ebenfalls 10 Heuristiken](https://www.nngroup.com/articles/ai-chatbots-design-guidelines/) 
+entwickelt, die auch durch gute und moderne Beispiele umschrieben wurden.
+
+Viele gute Heuristiken zur Gestaltung von Benutzeroberflächen werden auch bei (Starke, 2011), 
+[Kapitel 7.7](/papers/Starke,%202011,%20Kap%207.7.pdf) gut und bündig beschrieben. Diese Quelle wird auch in der Vorlesung verwendet. 
+
+In dem Artikel ([Le, Mayer et al., 2018](/papers/Fingers_Range_and_Comfortable_Area_for_One-Handed.pdf)) werden die wichtigsten Touch-Stellen in einer 
+Mobile-Anwendung durch ein HeatMap-Analyse durchgeführt. In dieser Forschungsarbeit wurden 
+allerdings nur Rechtshänder betrachtet, was sicherlich eine Limitierung darstellt.  
+
+# Allgemeine Quellen und Links zum Thema Software Engineering
+In diesem Bereich finden Sie Quellen und Links zu modernen Themen des Software Engineerings, die 
+nicht direkt zu einem Kapitel aus einer Vorlesung verortet werden können.
 
 ## KI im Bereich Software Engineering
 Ein kompletter Roundtrip von der Analyse von Anforderugen bis hin zur Auslieferung von Software 
@@ -172,12 +203,11 @@ Schlankes browser-basiertes Tool, keine Installation auf ihrem Rechner notwendig
 Quelle: https://app.diagrams.net/
 
 
-## Literaturverzeichnis
+# Literaturverzeichnis
 
 Hier eine Auflistung der wichtigen Quellen, die für das Software Engineering relevant sind. Alle 
 Bücher können auch über 
 [HBRS Bib Disover](https://bib-discover.bib.h-brs.de/discovery/search?vid=49HBZ_BRS:1044) online eingesehen werden.
-
 
 Brass, L. et al.: _Software Architecture in Practice_. Addison Wesley; 4. Edition. 2021.
 <br>
