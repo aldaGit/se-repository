@@ -55,6 +55,10 @@ Die in der Vorlesung erwähnten Zitate rund um agile Software-Entwicklung ("Spee
 "[The end of agile!](https://janbosch.com/blog/index.php/2023/08/07/summer-reflections-the-end-of-agile/)" stammen von [Prof. Dr. Jan Bosch](https://www.chalmers.se/en/persons/janbo/), einem bekannten Professor aus der Chalmers 
 University of Technology in Schweden. Viele gute Beiträge von ihm kann man aus seinem [Blog](https://janbosch.com/blog/) entnehmen. 
 
+Das [Positionspapier](/papers/2026-06_Policy_Brief_Software_im_KI-Zeitalter.pdf) über KI wurden von einigen namhaften Personen aus der Informatik 
+geschrieben, 
+welches den aktuellen Stand über das Thema KI und Software Engineering sehr gut beschreibt.,
+
 ## Kapitel 2: Software-Prozessmodelle im Software Engineering
 
 Das Wasserfallmodell wurde in einer ursprünglichen Version von den Software-Entwickler Royce 
